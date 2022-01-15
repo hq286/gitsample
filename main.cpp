@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "some changes" << std::endl;
+	std::cout << "first change" << std::endl;
+	std::cout << "second change" << std::endl;
 	std::cout << "Hello Linux Ubuntu!" << std::endl;
 	return 0;
 }
